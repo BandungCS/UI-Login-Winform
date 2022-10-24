@@ -1,0 +1,13 @@
+C:\Users\Bismillah\source\repos\rawrs\rawrs\bin\Debug\rawrs.exe.config
+C:\Users\Bismillah\source\repos\rawrs\rawrs\bin\Debug\rawrs.exe
+C:\Users\Bismillah\source\repos\rawrs\rawrs\bin\Debug\rawrs.pdb
+C:\Users\Bismillah\source\repos\rawrs\rawrs\bin\Debug\Guna.UI2.dll
+C:\Users\Bismillah\source\repos\rawrs\rawrs\obj\Debug\rawrs.csproj.AssemblyReference.cache
+C:\Users\Bismillah\source\repos\rawrs\rawrs\obj\Debug\rawrs.csproj.SuggestedBindingRedirects.cache
+C:\Users\Bismillah\source\repos\rawrs\rawrs\obj\Debug\rawrs.Form1.resources
+C:\Users\Bismillah\source\repos\rawrs\rawrs\obj\Debug\rawrs.Properties.Resources.resources
+C:\Users\Bismillah\source\repos\rawrs\rawrs\obj\Debug\rawrs.csproj.GenerateResource.cache
+C:\Users\Bismillah\source\repos\rawrs\rawrs\obj\Debug\rawrs.csproj.CoreCompileInputs.cache
+C:\Users\Bismillah\source\repos\rawrs\rawrs\obj\Debug\rawrs.csproj.CopyComplete
+C:\Users\Bismillah\source\repos\rawrs\rawrs\obj\Debug\rawrs.exe
+C:\Users\Bismillah\source\repos\rawrs\rawrs\obj\Debug\rawrs.pdb
